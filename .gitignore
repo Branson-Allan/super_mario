@@ -41,3 +41,62 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Local configuration
+application-local.properties
+application-dev.properties
+application-test.properties
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Coverage and reports
+coverage/
+jacoco/
+reports/
+
+# Maven wrapper logs (if applicable)
+.mvn/wrapper/maven-wrapper.jar
